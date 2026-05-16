@@ -1,0 +1,11 @@
+Ignore all log files
+*.log
+
+Ignore a specific file with secrets
+secret_config.txt
+
+Ignore all temporary files in this folder
+*.tmp
+
+Ignore system folders (for example,cache)
+.cache/
